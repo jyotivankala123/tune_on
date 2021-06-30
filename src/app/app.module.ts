@@ -43,7 +43,6 @@ import { LoginComponent } from './views/login/login.component';
    
     ReactiveFormsModule,
     FormsModule,
-   
     BrowserModule,
     AppRoutingModule
     
